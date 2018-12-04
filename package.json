@@ -1,5 +1,5 @@
 {
-  "name": "webdriverio",
+  "name": "@shackijj/webdriverio",
   "description": "A Node.js bindings implementation for the W3C WebDriver protocol",
   "version": "4.13.2",
   "homepage": "http://webdriver.io",
